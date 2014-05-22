@@ -38,3 +38,6 @@ Arguments:
 
 The makefile contains basic tests and a command to compare times for all applications
 given a size of a matrix and a number of nodes to use.
+
+This work was done for INF7235 at UQAM. Our original report was written in French and
+is available in the latex folder.
