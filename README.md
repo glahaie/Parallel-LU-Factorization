@@ -1,30 +1,40 @@
-INF7235_TP2
+Parallel LU Factorisation using MPI
 ===========
 
-Approches de parallélisation par échange de message pour la décomposition LU. Il y a
-quatre versions disponibles:
+This project implements different parallel message-passing approaches for Matrix
+LU Factorisation. The goal is to compare the execution time for different
+agglomeration schemes and the cost of partial pivoting. We based our work
+on Michael T. Heath's class 
+[Parallel Numerical Algorithms](http://courses.engr.illinois.edu/cs554/fa2013/notes/)
 
- - Version séquentiel
- - Version avec agglomération par lignes adjacentes
- - Version avec agglomération par lignes cycliques
- - Version avec agglomération 2D adjacente
+We implemented 3 agglomeration schemes and a sequential version:
 
+ - Agglomeration by adjacent lines
+ - Agglomeration by cyclic lines
+ - Agglomeration by 2D adjacent blocks
 
-**Utilisation**
+For the all versions except the 2D blocks, it is possible to specify if you want
+to use partial pivoting. The default behavior of the applications is to generate
+a random square matrix and calculate the factorization. The program does not check
+if a factorization actually exists. The result is stocked in the same matrix, the 
+lower-triangular matrix containing the L matrix and the main diagonal and upper 
+triangular matrix containing the U matrix.
 
-Arguments pour tous les programmes:
+**Usage**
 
- - Obligatoire: -m <taille_matrice>: taille de la matrice à traiter.On doit le fournir même
-   si on traite un fichier, et les grandeurs doivent être identiques. Le programme ne vérifie pas ça
- - -f <cheminfichier>: fournir un fichier contenant une matrice précise. S'il n'est pas
-   fourni, le programme génère une matrice avec des données aléatoires
- - -s <cheminfichier>: fichier de solution, on veut vérifier l'exactitude du calcul
- - -i: impression à l'écran du résultat
- - -w <nomFichier>: écriture du résultat dans le fichier
- - -p: demander au programme de faire l'algorithme avec un pivot partiel. Pas disponible pour lu\_mpi\_cart
- - -x, y <nombre>: pour lu\_mpi\_cart seulement, on doit obligatoirement spécifier le nombre de lignes / colonnes
-   de blocs pour le programme. Ces nombres doivent diviser le nombre de noeuds.
+Arguments:
 
-Il est possible de tester l'exactitude des différents programmes avec make tests, pour la performance,
-on peut faire make mesures NP=<nombre> MATRIX\_SIZE=<nombre>. Pour lu\_mpi\_cart, on doit aussi fournir
-ROWS et COLS
+ - **-m** <matrix size>: **Required**. Size of the matrix. For the moment the
+   applications only treat square matrixes, so only one size is required.
+ - **-f** <file path>: Text file to specify the input matrix. If not specified
+   the application will generate a random matrix.
+ - **-s** <file path>: Solution file, to verify the result calculated by the
+   application.
+ - **-i**: print the result to screen.
+ - **-w** <file path>: write the result to file.
+ - **-p**: use partial pivoting. Not available for lu\_mpi\_cart
+ - **-x, y** <number>: **Required for lu\_mpi\_cart**, specify the size of a block,
+   the sizes must be divisors of the number of nodes used and must 
+
+The makefile contains basic tests and a command to compare times for all applications
+given a size of a matrix and a number of nodes to use.
