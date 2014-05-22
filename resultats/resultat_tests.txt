@@ -1,0 +1,144 @@
+[lahaie@turing src]$ mpirun -n 2 ./lu_mpi_row_adjacent 4 1
+Resultat de la factorisation lu correcte.                                                                                                                                               
+     3.0     -7.0     -2.0      2.0 
+    -1.0     -2.0     -1.0      2.0 
+     2.0     -5.0     -1.0      1.0 
+    -3.0      8.0      3.0     -1.0 
+LU decomposition took 0.925 msecs for matrix of 4
+[lahaie@turing src]$ mpirun -n 2 ./lu_mpi_row_adjacent 4 2
+Resultat de la factorisation lu correcte.
+    -5.0      3.0      3.0      4.0 
+    -0.4     -2.8     -0.8      4.6 
+    -0.4      2.1     -0.1      1.1 
+    -1.2      1.9     -1.0      5.0 
+LU decomposition took 0.772 msecs for matrix of 4
+[lahaie@turing src]$ mpirun -n 1 ./lu_mpi_row_adjacent 4 2
+Resultat de la factorisation lu correcte.
+    -5.0      3.0      3.0      4.0 
+    -0.4     -2.8     -0.8      4.6 
+    -0.4      2.1     -0.1      1.1 
+    -1.2      1.9     -1.0      5.0 
+LU decomposition took 0.006 msecs for matrix of 4
+[lahaie@turing src]$ mpirun -n 4 ./lu_mpi_row_adjacent 4 2
+Resultat de la factorisation lu correcte.
+    -5.0      3.0      3.0      4.0 
+    -0.4     -2.8     -0.8      4.6 
+    -0.4      2.1     -0.1      1.1 
+    -1.2      1.9     -1.0      5.0 
+LU decomposition took 4.611 msecs for matrix of 4
+[lahaie@turing src]$ mpirun -n 1 ./lu_mpi_row_adjacent 6 3
+Resultat de la factorisation lu correcte.
+     5.0     -9.0      3.0     14.0     22.0     23.0 
+     3.0     44.0    -38.0    -19.0    -64.0    -68.0 
+     8.8      2.7    126.7    -59.2     -9.7     -8.7 
+    11.8      2.2      0.5   -110.2   -108.9    -74.3 
+     4.2      0.2      0.5     -0.2    -77.1    -69.0 
+     9.4      3.1      0.5      0.5     -0.7     -1.9 
+LU decomposition took 0.007 msecs for matrix of 6
+[lahaie@turing src]$ mpirun -n 2 ./lu_mpi_row_adjacent 6 3
+Resultat de la factorisation lu correcte.
+     5.0     -9.0      3.0     14.0     22.0     23.0 
+     3.0     44.0    -38.0    -19.0    -64.0    -68.0 
+     8.8      2.7    126.7    -59.2     -9.7     -8.7 
+    11.8      2.2      0.5   -110.2   -108.9    -74.3 
+     4.2      0.2      0.5     -0.2    -77.1    -69.0 
+     9.4      3.1      0.5      0.5     -0.7     -1.9 
+LU decomposition took 0.817 msecs for matrix of 6
+[lahaie@turing src]$ mpirun -n 3 ./lu_mpi_row_adjacent 6 3
+Resultat de la factorisation lu correcte.
+     5.0     -9.0      3.0     14.0     22.0     23.0 
+     3.0     44.0    -38.0    -19.0    -64.0    -68.0 
+     8.8      2.7    126.7    -59.2     -9.7     -8.7 
+    11.8      2.2      0.5   -110.2   -108.9    -74.3 
+     4.2      0.2      0.5     -0.2    -77.1    -69.0 
+     9.4      3.1      0.5      0.5     -0.7     -1.9 
+LU decomposition took 3.716 msecs for matrix of 6
+[lahaie@turing src]$ mpirun -n 6 ./lu_mpi_row_adjacent 6 3
+Resultat de la factorisation lu correcte.
+     5.0     -9.0      3.0     14.0     22.0     23.0 
+     3.0     44.0    -38.0    -19.0    -64.0    -68.0 
+     8.8      2.7    126.7    -59.2     -9.7     -8.7 
+    11.8      2.2      0.5   -110.2   -108.9    -74.3 
+     4.2      0.2      0.5     -0.2    -77.1    -69.0 
+     9.4      3.1      0.5      0.5     -0.7     -1.9 
+LU decomposition took 8.918 msecs for matrix of 6
+[lahaie@turing src]$ make lu_mpi_row_cyclic
+mpicc -O2 -DNDEBUG -o lu_mpi_row_cyclic -std=gnu99 lu_mpi_row_cyclic.c
+[lahaie@turing src]$ mpirun -n 1 ./lu_mpi_row_cyclic 4 1
+Resultat de la factorisation lu correcte.
+     3.0     -7.0     -2.0      2.0 
+    -1.0     -2.0     -1.0      2.0 
+     2.0     -5.0     -1.0      1.0 
+    -3.0      8.0      3.0     -1.0 
+LU decomposition took 0.006 msecs for matrix of 4
+[lahaie@turing src]$ mpirun -n 2 ./lu_mpi_row_cyclic 4 1
+Resultat de la factorisation lu correcte.
+     3.0     -7.0     -2.0      2.0 
+    -1.0     -2.0     -1.0      2.0 
+     2.0     -5.0     -1.0      1.0 
+    -3.0      8.0      3.0     -1.0 
+LU decomposition took 9.950 msecs for matrix of 4
+[lahaie@turing src]$ mpirun -n 4 ./lu_mpi_row_cyclic 4 1
+Resultat de la factorisation lu correcte.
+     3.0     -7.0     -2.0      2.0 
+    -1.0     -2.0     -1.0      2.0 
+     2.0     -5.0     -1.0      1.0 
+    -3.0      8.0      3.0     -1.0 
+LU decomposition took 2.384 msecs for matrix of 4
+[lahaie@turing src]$ mpirun -n 4 ./lu_mpi_row_cyclic 4 2
+Resultat de la factorisation lu correcte.
+    -5.0      3.0      3.0      4.0 
+    -0.4     -2.8     -0.8      4.6 
+    -0.4      2.1     -0.1      1.1 
+    -1.2      1.9     -1.0      5.0 
+LU decomposition took 2.351 msecs for matrix of 4
+[lahaie@turing src]$ mpirun -n 2 ./lu_mpi_row_cyclic 4 2
+Resultat de la factorisation lu correcte.
+    -5.0      3.0      3.0      4.0 
+    -0.4     -2.8     -0.8      4.6 
+    -0.4      2.1     -0.1      1.1 
+    -1.2      1.9     -1.0      5.0 
+LU decomposition took 0.915 msecs for matrix of 4
+[lahaie@turing src]$ mpirun -n 1 ./lu_mpi_row_cyclic 4 2
+Resultat de la factorisation lu correcte.
+    -5.0      3.0      3.0      4.0 
+    -0.4     -2.8     -0.8      4.6 
+    -0.4      2.1     -0.1      1.1 
+    -1.2      1.9     -1.0      5.0 
+LU decomposition took 0.006 msecs for matrix of 4
+[lahaie@turing src]$ mpirun -n 1 ./lu_mpi_row_cyclic 6 3
+Resultat de la factorisation lu correcte.
+     5.0     -9.0      3.0     14.0     22.0     23.0 
+     3.0     44.0    -38.0    -19.0    -64.0    -68.0 
+     8.8      2.7    126.7    -59.2     -9.7     -8.7 
+    11.8      2.2      0.5   -110.2   -108.9    -74.3 
+     4.2      0.2      0.5     -0.2    -77.1    -69.0 
+     9.4      3.1      0.5      0.5     -0.7     -1.9 
+LU decomposition took 0.007 msecs for matrix of 6
+[lahaie@turing src]$ mpirun -n 2 ./lu_mpi_row_cyclic 6 3
+Resultat de la factorisation lu correcte.
+     5.0     -9.0      3.0     14.0     22.0     23.0 
+     3.0     44.0    -38.0    -19.0    -64.0    -68.0 
+     8.8      2.7    126.7    -59.2     -9.7     -8.7 
+    11.8      2.2      0.5   -110.2   -108.9    -74.3 
+     4.2      0.2      0.5     -0.2    -77.1    -69.0 
+     9.4      3.1      0.5      0.5     -0.7     -1.9 
+LU decomposition took 0.962 msecs for matrix of 6
+[lahaie@turing src]$ mpirun -n 3 ./lu_mpi_row_cyclic 6 3
+Resultat de la factorisation lu correcte.
+     5.0     -9.0      3.0     14.0     22.0     23.0 
+     3.0     44.0    -38.0    -19.0    -64.0    -68.0 
+     8.8      2.7    126.7    -59.2     -9.7     -8.7 
+    11.8      2.2      0.5   -110.2   -108.9    -74.3 
+     4.2      0.2      0.5     -0.2    -77.1    -69.0 
+     9.4      3.1      0.5      0.5     -0.7     -1.9 
+LU decomposition took 1.350 msecs for matrix of 6
+[lahaie@turing src]$ mpirun -n 6 ./lu_mpi_row_cyclic 6 3
+Resultat de la factorisation lu correcte.
+     5.0     -9.0      3.0     14.0     22.0     23.0 
+     3.0     44.0    -38.0    -19.0    -64.0    -68.0 
+     8.8      2.7    126.7    -59.2     -9.7     -8.7 
+    11.8      2.2      0.5   -110.2   -108.9    -74.3 
+     4.2      0.2      0.5     -0.2    -77.1    -69.0 
+     9.4      3.1      0.5      0.5     -0.7     -1.9 
+LU decomposition took 4.527 msecs for matrix of 6

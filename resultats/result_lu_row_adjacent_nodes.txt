@@ -1,0 +1,35 @@
+LU decomposition took 86407.150 msecs for matrix of 6000
+LU decomposition took 50514.947 msecs for matrix of 6000
+LU decomposition took 37300.243 msecs for matrix of 6000
+LU decomposition took 32629.527 msecs for matrix of 6000
+LU decomposition took 23239.464 msecs for matrix of 6000
+LU decomposition took 22146.704 msecs for matrix of 6000
+----------------------------------------------------------------
+LU decomposition took 89899.805 msecs for matrix of 6000
+LU decomposition took 55128.632 msecs for matrix of 6000
+LU decomposition took 37424.749 msecs for matrix of 6000
+LU decomposition took 25869.460 msecs for matrix of 6000
+LU decomposition took 25924.174 msecs for matrix of 6000
+LU decomposition took 22205.982 msecs for matrix of 6000
+----------------------------------------------------------------
+LU decomposition took 85230.513 msecs for matrix of 6000
+LU decomposition took 57663.000 msecs for matrix of 6000
+LU decomposition took 35946.730 msecs for matrix of 6000
+LU decomposition took 30377.469 msecs for matrix of 6000
+LU decomposition took 23849.827 msecs for matrix of 6000
+LU decomposition took 24565.227 msecs for matrix of 6000
+----------------------------------------------------------------
+LU decomposition took 85137.189 msecs for matrix of 6000
+LU decomposition took 62976.654 msecs for matrix of 6000
+LU decomposition took 44257.925 msecs for matrix of 6000
+LU decomposition took 121645.702 msecs for matrix of 6000
+LU decomposition took 30190.540 msecs for matrix of 6000
+LU decomposition took 25320.790 msecs for matrix of 6000
+LU decomposition took 27228.129 msecs for matrix of 6000
+LU decomposition took 70575.917 msecs for matrix of 6000
+----------------------------------------------------------------
+LU decomposition took 48710.695 msecs for matrix of 6000
+LU decomposition took 40195.637 msecs for matrix of 6000
+LU decomposition took 34119.074 msecs for matrix of 6000
+LU decomposition took 31357.688 msecs for matrix of 6000
+----------------------------------------------------------------

@@ -1,0 +1,28 @@
+LU decomposition took 88684.920 msecs for matrix of 6000
+LU decomposition took 73877.205 msecs for matrix of 6000
+LU decomposition took 55782.548 msecs for matrix of 6000
+LU decomposition took 41647.384 msecs for matrix of 6000
+LU decomposition took 37291.426 msecs for matrix of 6000
+LU decomposition took 30540.483 msecs for matrix of 6000
+----------------------------------------------------------------
+LU decomposition took 92277.890 msecs for matrix of 6000
+LU decomposition took 76273.709 msecs for matrix of 6000
+LU decomposition took 51207.863 msecs for matrix of 6000
+LU decomposition took 44533.055 msecs for matrix of 6000
+LU decomposition took 33768.564 msecs for matrix of 6000
+LU decomposition took 31322.394 msecs for matrix of 6000
+----------------------------------------------------------------
+LU decomposition took 97998.969 msecs for matrix of 6000
+LU decomposition took 62016.970 msecs for matrix of 6000
+LU decomposition took 57272.639 msecs for matrix of 6000
+LU decomposition took 41786.668 msecs for matrix of 6000
+LU decomposition took 38324.721 msecs for matrix of 6000
+LU decomposition took 29125.373 msecs for matrix of 6000
+----------------------------------------------------------------
+LU decomposition took 96839.789 msecs for matrix of 6000
+LU decomposition took 73200.038 msecs for matrix of 6000
+LU decomposition took 54495.649 msecs for matrix of 6000
+LU decomposition took 43562.709 msecs for matrix of 6000
+LU decomposition took 37377.352 msecs for matrix of 6000
+LU decomposition took 29938.632 msecs for matrix of 6000
+----------------------------------------------------------------

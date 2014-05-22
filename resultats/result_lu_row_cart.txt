@@ -1,0 +1,423 @@
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+usage: lu_mpi_cart <x> <y> <dimension matrice>
+LU decomposition took 159.458 msecs for matrix of 600
+LU decomposition took 509.151 msecs for matrix of 1200
+LU decomposition took 1529.784 msecs for matrix of 1800
+LU decomposition took 2774.321 msecs for matrix of 2400
+LU decomposition took 4000.724 msecs for matrix of 3000
+LU decomposition took 6807.243 msecs for matrix of 3600
+LU decomposition took 10559.796 msecs for matrix of 4200
+LU decomposition took 15315.153 msecs for matrix of 4800
+LU decomposition took 21219.410 msecs for matrix of 5400
+LU decomposition took 33420.343 msecs for matrix of 6000
+LU decomposition took 43250.659 msecs for matrix of 6600
+LU decomposition took 57108.188 msecs for matrix of 7200
+LU decomposition took 65778.809 msecs for matrix of 7800
+LU decomposition took 81481.802 msecs for matrix of 8400
+LU decomposition took 103368.025 msecs for matrix of 9000
+LU decomposition took 167.307 msecs for matrix of 600
+LU decomposition took 463.290 msecs for matrix of 1200
+LU decomposition took 1683.236 msecs for matrix of 1800
+LU decomposition took 192.892 msecs for matrix of 600
+LU decomposition took 500.457 msecs for matrix of 1200
+LU decomposition took 1688.654 msecs for matrix of 1800
+LU decomposition took 2950.485 msecs for matrix of 2400
+LU decomposition took 4353.256 msecs for matrix of 3000
+LU decomposition took 7968.347 msecs for matrix of 3600
+LU decomposition took 11144.840 msecs for matrix of 4200
+LU decomposition took 18892.650 msecs for matrix of 4800
+LU decomposition took 22492.692 msecs for matrix of 5400
+LU decomposition took 30087.338 msecs for matrix of 6000
+LU decomposition took 45771.234 msecs for matrix of 6600
+LU decomposition took 48961.842 msecs for matrix of 7200
+LU decomposition took 76157.456 msecs for matrix of 7800
+LU decomposition took 87611.333 msecs for matrix of 8400
+LU decomposition took 109714.295 msecs for matrix of 9000
+LU decomposition took 202.603 msecs for matrix of 600
+LU decomposition took 460.965 msecs for matrix of 1200
+LU decomposition took 1710.285 msecs for matrix of 1800
+LU decomposition took 2596.094 msecs for matrix of 2400
+LU decomposition took 4537.354 msecs for matrix of 3000
+LU decomposition took 7873.438 msecs for matrix of 3600
+LU decomposition took 19338.223 msecs for matrix of 4200
+LU decomposition took 13227.282 msecs for matrix of 4800
+LU decomposition took 20953.954 msecs for matrix of 5400
+LU decomposition took 33055.774 msecs for matrix of 6000
+LU decomposition took 40325.454 msecs for matrix of 6600
+LU decomposition took 50724.133 msecs for matrix of 7200
+LU decomposition took 72738.319 msecs for matrix of 7800
+LU decomposition took 97868.826 msecs for matrix of 8400
+LU decomposition took 106415.540 msecs for matrix of 9000
+LU decomposition took 177.732 msecs for matrix of 600
+LU decomposition took 473.735 msecs for matrix of 1200
+LU decomposition took 1371.544 msecs for matrix of 1800
+LU decomposition took 2841.829 msecs for matrix of 2400
+LU decomposition took 4914.836 msecs for matrix of 3000
+LU decomposition took 7246.727 msecs for matrix of 3600
+LU decomposition took 10897.375 msecs for matrix of 4200
+LU decomposition took 17850.481 msecs for matrix of 4800
+LU decomposition took 20406.197 msecs for matrix of 5400
+LU decomposition took 31533.873 msecs for matrix of 6000
+LU decomposition took 41320.782 msecs for matrix of 6600
+LU decomposition took 51005.804 msecs for matrix of 7200
+LU decomposition took 69299.238 msecs for matrix of 7800
+LU decomposition took 85028.357 msecs for matrix of 8400
+LU decomposition took 106452.153 msecs for matrix of 9000

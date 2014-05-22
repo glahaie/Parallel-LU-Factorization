@@ -1,0 +1,99 @@
+mpicc -O2 -DNDEBUG -o lu_mpi -std=c99 lu_mpi.c
+
+30 nodes *****
+[francoeur@turing src]$ mpiexec -n 30 ./lu_mpi 10000 1
+LU decomposition took 82.950 secs for matrix of 10000
+
+[francoeur@turing src]$ mpiexec -n 30 ./lu_mpi 9000 1
+LU decomposition took 75.340 secs for matrix of 9000
+
+[francoeur@turing src]$ mpiexec -n 30 ./lu_mpi 8000 1
+LU decomposition took 52.990 secs for matrix of 8000
+
+[francoeur@turing src]$  mpiexec -n 30 ./lu_mpi 7000 1
+LU decomposition took 35.080 secs for matrix of 7000
+
+[francoeur@turing src]$  mpiexec -n 30 ./lu_mpi 6000 1
+LU decomposition took 21.670 secs for matrix of 6000
+
+[francoeur@turing src]$  mpiexec -n 30 ./lu_mpi 5000 1
+LU decomposition took 15.360 secs for matrix of 5000
+
+[francoeur@turing src]$  mpiexec -n 30 ./lu_mpi 4000 1
+LU decomposition took 8.140 secs for matrix of 4000
+
+[francoeur@turing src]$  mpiexec -n 30 ./lu_mpi 3000 1
+LU decomposition took 4.300 secs for matrix of 3000
+
+[francoeur@turing src]$  mpiexec -n 30 ./lu_mpi 2000 1
+LU decomposition took 2.420 secs for matrix of 2000
+
+[francoeur@turing src]$  mpiexec -n 30 ./lu_mpi 1000 1
+LU decomposition took 0.760 secs for matrix of 1000
+
+
+10 nodes ****
+
+[francoeur@turing src]$ mpiexec -n 10 ./lu_mpi 1000 1
+LU decomposition took 0.580 secs for matrix of 1000
+
+[francoeur@turing src]$ mpiexec -n 10 ./lu_mpi 2000 1
+LU decomposition took 2.380 secs for matrix of 2000
+
+[francoeur@turing src]$ mpiexec -n 10 ./lu_mpi 3000 1
+LU decomposition took 6.250 secs for matrix of 3000
+
+[francoeur@turing src]$ mpiexec -n 10 ./lu_mpi 4000 1
+LU decomposition took 15.690 secs for matrix of 4000
+
+[francoeur@turing src]$ mpiexec -n 10 ./lu_mpi 5000 1
+LU decomposition took 27.750 secs for matrix of 5000
+
+[francoeur@turing src]$ mpiexec -n 10 ./lu_mpi 6000 1
+LU decomposition took 44.310 secs for matrix of 6000
+
+[francoeur@turing src]$ mpiexec -n 10 ./lu_mpi 7000 1
+LU decomposition took 80.070 secs for matrix of 7000
+
+[francoeur@turing src]$ mpiexec -n 10 ./lu_mpi 8000 1
+LU decomposition took 101.820 secs for matrix of 8000
+
+[francoeur@turing src]$ mpiexec -n 10 ./lu_mpi 9000 1
+LU decomposition took 147.780 secs for matrix of 9000
+
+[francoeur@turing src]$ mpiexec -n 10 ./lu_mpi 10000 1
+LU decomposition took 196.390 secs for matrix of 10000
+
+
+1 node = Sequentiel *
+
+[francoeur@turing src]$ mpiexec -n 1 ./lu_mpi 1000 1
+LU decomposition took 0.870 secs for matrix of 1000
+
+[francoeur@turing src]$ mpiexec -n 1 ./lu_mpi 2000 1
+LU decomposition took 9.270 secs for matrix of 2000
+
+[francoeur@turing src]$ mpiexec -n 1 ./lu_mpi 3000 1
+LU decomposition took 37.550 secs for matrix of 3000
+
+[francoeur@turing src]$ mpiexec -n 1 ./lu_mpi 4000 1
+LU decomposition took 78.220 secs for matrix of 4000
+
+[francoeur@turing src]$  mpiexec -n 1 -H quark40 ./lu_mpi 5000 1
+LU decomposition took 89.190 secs for matrix of 5000
+
+[francoeur@turing src]$ mpiexec -n 1 -H quark39 ./lu_mpi 6000 1
+LU decomposition took 269.810 secs for matrix of 6000
+
+[francoeur@turing src]$  mpiexec -n 1 -H quark40 ./lu_mpi 7000 1
+LU decomposition took 404.930 secs for matrix of 7000
+
+[francoeur@turing src]$ mpiexec -n 1 -H quark38 ./lu_mpi 8000 1
+LU decomposition took 675.270 secs for matrix of 8000
+
+[francoeur@turing src]$  mpiexec -n 1 -H quark40 ./lu_mpi 9000 1
+LU decomposition took 773.680 secs for matrix of 9000
+
+[francoeur@turing src]$ mpiexec -n 1 -H quark38 ./lu_mpi 10000 1
+LU decomposition took 1181.450 secs for matrix of 10000
+
